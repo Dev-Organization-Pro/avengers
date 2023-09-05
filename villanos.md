@@ -2,4 +2,4 @@
 
 * DR.Doom
 * Red skull
-* Dr.Barrios
+* Capitan America
